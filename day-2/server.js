@@ -14,4 +14,4 @@ app.get("/home",(req,res)=>{
     res.send("This is Home Page")
 })
 
-app.listen(3000) //server start karna
+app.listen(3000) //server start karna hai
