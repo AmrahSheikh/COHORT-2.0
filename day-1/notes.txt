@@ -1,0 +1,23 @@
+file ko run kaise kare 
+=> terminal open kare [ctrl + `]
+=> node <filename>
+=> code run ho jayenga 
+
+npm i cat-me[instal kiya cat me package ko]
+const catMe = require ("cat-me")[ise require karke const me catMe name se save kar liya]
+console.log(catMe()); [fir us veriable ko log kara liya ]
+ab ise terminal pr run karne ke bad 1 nai cat dikhengi
+
+> package.json ka kam ye hota hai ki js ka jo apka code h wo kon konse packages pr depend karta hai wo dikhana
+
+what is server?
+=> server ek machine hoti hai jiske pass khud ka operating system , khud ka procceser khud ki ram aur khud ki storage hoti hai
+=> server ek aisi machine hai jise program kiya gaya hai ki user jo bhi requiest karenga ka use ek rproper response de sake
+=.ex- amazon.in ke serch me hm agr mobile serchkare to us serch se related hi product show hoge Qki server ko rprogram hi is tarike se kiya gaya hai ki server user ko jo usne search kiya hai wahi dikhaye
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Express ek packacge hai jo hame server create karne deta hai 
+npm i express [ is command se ham expresskko instal karte hai]
