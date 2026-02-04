@@ -1,0 +1,16 @@
+npx nodemon server.js => [bar bar server ko load karne ki jjarurat nahi hai isse server apne aap load hota rahenga]
+
+/ Understanding What are API?
+=> hamari 1 dukan hai jo gujrat me hai wo X saman bechti hai jo ki flipkart, amazon pr listed hai , jo dukan ahi uspr 1 order aya tamilnadu side se , ab uske pass 3 tarike hai saman deliver karne ke , Isi ko ham API bolte hai [1 hi chij ko deliver karne ke bohat se raste].
+=>An API (Application Programming Interface) is a set of rules and protocols that enables one software application to communicate with another.
+
+=>2 softwareyya 2 application program agr data exchange kr rahe hai to wo ApI ke trough karenge ab unme kuch rules hote hai kuch protocols hote hai.
+
+=> Rest-API
+
+TASK - Notes Application
+
+1. User note create kr sake
+2. jitne notes wo create karenga use wo dekh sakte 
+3. Notes ko update kr sake
+4. Notes ko Delete kr sake
