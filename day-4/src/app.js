@@ -53,7 +53,7 @@ app.delete("/notes/:index",(req,res)=>{
 app.patch("/notes/:index",(req,res)=>{
 
     notes[req.params.index].description = req.body.description
-
+    notes[req.params.inndex].title = req.body.title
     res.send("notes updated successfully")
 })
 
